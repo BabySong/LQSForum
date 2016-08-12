@@ -339,4 +339,8 @@
     // 2.添加图片到相册中
     [self.photosView addImage:image];
 }
+- (void)test
+{
+    
+}
 @end
